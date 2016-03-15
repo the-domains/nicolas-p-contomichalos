@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nicolas P Contomichalos]]></title>
         <description><![CDATA[Nicolas P Contomichalos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.contomichalos.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 20:42:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 20:10:37 GMT</lastBuildDate>
+        <atom:link href="http://www.contomichalos.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The personal website of Mr N P Contomichalos & family</p>]]></description>
+            <link>http://www.contomichalos.com/f416d350-7f39-406f-bb8b-74907ab50139/index.html</link>
+            <guid isPermaLink="false">f416d350-7f39-406f-bb8b-74907ab50139</guid>
+            <pubDate>Tue, 15 Mar 2016 20:10:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d79f37-9896-4884-bc8c-6f00172e4481.jpg">]]></description>
-            <link>undefinedfb6bf26c-7647-451d-b23a-1e385c89af42/index.html</link>
+            <link>http://www.contomichalos.com/fb6bf26c-7647-451d-b23a-1e385c89af42/index.html</link>
             <guid isPermaLink="false">fb6bf26c-7647-451d-b23a-1e385c89af42</guid>
             <pubDate>Sat, 12 Mar 2016 20:42:07 GMT</pubDate>
         </item>
